@@ -9,7 +9,6 @@ dente. A área do círculo é A = π * raio2, sendo π = 3.141592.
 
 int main()
 {
-
     float r , r2;
 
     scanf("%f", &r);
@@ -17,5 +16,4 @@ int main()
     r2 = r * r;
 
     printf("Raio = \t%.2f || Diametro = \t%.2f", r, (PI*r2));
-
 }

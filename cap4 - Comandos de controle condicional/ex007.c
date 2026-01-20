@@ -42,5 +42,5 @@ int main()
         printf("Estado invalido");
         break;
     }
-    
+    return 0;
 }
